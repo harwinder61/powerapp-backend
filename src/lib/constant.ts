@@ -1,0 +1,16 @@
+export const reorderPrefColumns = [
+  "ExceptionsColumnOrderPreference",
+  "ExceptionsVoidColumnOrderPreference",
+  "ExceptionLineItemColumnOrderPreference",
+  "ExceptionVoidLI_ColumnOrderPreference",
+  "InvoicesColumnOrderPreference",
+  "InvoicesVoidColumnOrderPreference",
+  "InvoiceLineItemsColumnOrderPreference",
+  "InvoiceVoidLI_ColumnOrderPreference",
+  "ReportsColumnOrderPreference",
+  "ExceptionDetailColumnOrderPreference",
+  "ExceptionVoid_Detail_ColumnOrderPreference",
+  "InvoiceDetailColumnOrderPreference",
+  "InvoiceVoid_Detail_ColumnOrderPreference",
+  "TablesPageSizePreferences",
+];
